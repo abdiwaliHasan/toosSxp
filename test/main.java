@@ -1,9 +1,6 @@
- public Class Main{
-    public static void main(string) {
-        system.out.println("hellow world!");
+ public class Demo{
+    public static void main(String[] args){
+        System.out.println("hellow world!");
         
     }
-   
-
-
 }
